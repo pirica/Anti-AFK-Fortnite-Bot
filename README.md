@@ -7,7 +7,7 @@ This python script will prevent you from going afk in fortnite.
 
 
 
-Python is require to run this script downloade: https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
+Python is require to run this script Download: https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
 ## How to run/use
 1. Downloade the python sciprt form the releases tab
 
