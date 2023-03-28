@@ -3,6 +3,7 @@ import pyautogui
 import time
 import threading
 from tkinter import messagebox
+import sys
 
 def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
@@ -80,6 +81,7 @@ class App:
         self.paused = False
         self.button1.config(text='Start')
         self.master.destroy()
+        sys.exit()
 
 root = tk.Tk()
 root.title("AFK Presser")
