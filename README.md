@@ -1,26 +1,35 @@
 # Anti-AFK-Fortnite-Bot
-This python script will prevent you from going afk in fortnite.
-
+Stop going AFK in Fortnite with this simple *Python 3.11.1* script!
 
 
 ## Requirements
 
+- [Python 3.11.1](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe)
 
 
-Python is require to run this script Download: https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
-## How to run/use
-1. Downloade the python sciprt form the releases tab
+
+## How to Use
+
+1. Download the Python script from the releases tab on GitHub:
+
+<img width="246" alt="image" src="https://user-images.githubusercontent.com/101112829/228179333-393e22f8-c017-414c-acd8-b7c382681c34.png">
 
 
-2. Open the file location and type cmd in the box next to the search box then press enter
-![image](https://user-images.githubusercontent.com/108309197/208279385-0cebe145-b00b-4f07-bce9-c919f2ce253e.png)
+
+2. Press `Win+R` and type `cmd` and then press `Enter`
+
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/101112829/228179562-026ad745-ce6b-4f92-aece-4920790167d8.png">
 
 
-3. When command prompt opens type in the command `python afk.py` Then press enter
 
-![image](https://user-images.githubusercontent.com/108309197/208279477-746d1b7c-945f-4383-9658-2e0d86e40857.png)
+3. Run `cd Downloads`
+
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/101112829/228179863-497cad8f-32e1-4991-8848-5b3b84cd15f2.png">
 
 
-4. Boom your done!!
+4. Run `py afk.py`
+
+
+5. Enjoy!
 
 ![image](https://user-images.githubusercontent.com/108309197/208279652-80e5a7f1-1973-4bd9-9385-b43fc005b944.png)
